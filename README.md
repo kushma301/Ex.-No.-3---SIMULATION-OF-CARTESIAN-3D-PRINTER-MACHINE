@@ -48,17 +48,15 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-
 <img width="606" alt="x axis exp 5 EMPD" src="https://github.com/user-attachments/assets/6c2d5b7f-1da9-433e-b85c-891b762fa4f0" />
 <img width="653" alt="y axis exp 5 EMPD" src="https://github.com/user-attachments/assets/727e25a6-655c-4470-a049-0c0f20eacd53" />
 <img width="638" alt="z axis exp 5 EMPD" src="https://github.com/user-attachments/assets/6737692e-b72d-4b7e-a4ff-fe388e734613" />
 <img width="624" alt="complete assembly exp 5 EMPD" src="https://github.com/user-attachments/assets/bd64f035-64ee-4c18-8ea1-ee0160022aa8" />
 
 ## Output:
-
 ![exp 5 output EMPD](https://github.com/user-attachments/assets/133f5981-e04b-42b4-8bc9-3c569b97514d)
 
-### Name: KUSHMA.S
+### Name:KUSHMA.S
 ### Register Number: 24013666
 
 ## Result: 
